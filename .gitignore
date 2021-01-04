@@ -4,3 +4,6 @@ nohup.out
 .github/workflows/.report.yml.swp
 tags
 __pycache__/report.cpython-36.pyc
+*.py~
+*.swp
+*.un~
