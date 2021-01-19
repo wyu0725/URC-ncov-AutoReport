@@ -7,3 +7,4 @@ __pycache__/report.cpython-36.pyc
 *.py~
 *.swp
 *.un~
+*.yml~
